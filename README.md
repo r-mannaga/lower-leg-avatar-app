@@ -20,8 +20,13 @@
 - Arduino
 
 ## 動作イメージ
-![demo1](./images/demo1.gif)
-![demo2](./images/demo2.gif)
+※大画面での動作例です。
+
+###運動時のアバター連動動作
+![avatar_motion](./images/demo1.gif)
+
+###脅威物体提示時の動作（ハンマーとボール）
+![threat_event](./images/demo2.gif)
 
 ## 実行方法
 1. Processingを起動
